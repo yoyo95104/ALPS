@@ -1,2 +1,2 @@
 # ALPS
-a new video sharing platform using react and go
+a new light-weight go server
